@@ -1,0 +1,15 @@
+{
+  "name": "ns_converter",
+  "version": "1.0.0",
+  "description": "Задача: Разработать сервис конвертации валют на Node.JS, на фреймворке Express или Koa.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .\\src\\server\\index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ns_converter": "file:"
+  }
+}
